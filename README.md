@@ -6,3 +6,5 @@ This is a bookmarklet to help you use the previous version of "View image" optio
 2. Make sure that the bookmark is visible in the bookmarks tab.
 3. Now google any image, click it once, once you see options like visit, save, view saved click the bookmark and bam you can see the full image.
 [GIF](https://gfycat.com/UnsungAnchoredArmadillo)
+![Usage gif](https://thumbs.gfycat.com/UnsungAnchoredArmadillo-size_restricted.gif)
+
